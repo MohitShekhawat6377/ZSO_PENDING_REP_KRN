@@ -1,0 +1,33 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SO Pending Report",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zsopendingrep"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_149EDF20448F65B83632BD644008D05A791C5C2C_TM",
+    "semanticObject": "ZSO_PENDING_REP",
+    "action": "Display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_149EDF20448F65B83632BD644008D05A791C5C2C_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "SO Pending Report"
+      }
+    }
+  ]
+}

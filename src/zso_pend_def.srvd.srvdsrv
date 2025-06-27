@@ -1,0 +1,5 @@
+@EndUserText.label: 'ZSO_PEND_DEF'
+define service ZSO_PEND_DEF {
+  expose ZSO_PEND_CUBE        as ZSO_PEND_CUBE;
+  expose ZPRODUCTION_ORDR_CDS as ZPRODUCTION_ORDR_CDS;
+}
